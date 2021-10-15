@@ -10,7 +10,7 @@ body {
   line-height: 1.5;
   background-image: url(/images/2aba25a17d53918a4a90e55390b5ee7e.jpg);
   background-repeat: no-repeat;
-  background-size: 1500px 910px;
+  background-size: 1540px 910px;
   background-position-y: -100px;
 }
 
@@ -21,4 +21,16 @@ body {
 
 .h4{
   color: white;
+}
+
+input{
+  margin-bottom: 20px;
+}
+
+select{
+  margin-bottom: 20px;
+}
+
+button{
+  width: 100%;
 }
